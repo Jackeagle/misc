@@ -1,0 +1,3 @@
+uk_UA-ak-cur.lite.res	7aba02873d4917916b98b3c52eb8aa7b	576155
+uk_UA.lang	ec5c9cb785d9fc815023a749728626f4	4125
+uk_UA-lk-text.lite.res	3b8e72c92e00a30f25f4084ce1caf79b	4726572

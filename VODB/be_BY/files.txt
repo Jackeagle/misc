@@ -1,0 +1,3 @@
+be_BY-ak-cur.lite.res	7276c1a97d4bc31a6ac5ed4334fcffca	570731
+be_BY.lang	d8d9b60fb6d03352bc9004ff10a1436a	4124
+be_BY-lk-text.lite.res	ac5883d9e9cb415d71dc2a04a574d2ec	3467192
