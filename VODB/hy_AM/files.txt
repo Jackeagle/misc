@@ -1,0 +1,3 @@
+hy_AM-ak-cur.lite.res	12c920120e182ef280b6b9faa2d5ea0e	594207
+hy_AM.lang	a6e63b7ca496d6d41d57c70e1500ed39	4125
+hy_AM-lk-text.lite.res	d324681d45d45314e1a415c6cf0dafc3	4321136

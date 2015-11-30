@@ -1,0 +1,2 @@
+/system/app/Awad-release10682-3.2.4/Awad-release10682-3.2.4.apk
+/system/app/com.samsung.galaxy_gifts__1.12_release/com.samsung.galaxy_gifts__1.12_release.apk
